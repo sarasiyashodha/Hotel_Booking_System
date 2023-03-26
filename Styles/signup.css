@@ -1,0 +1,42 @@
+body {
+    /* background-image: linear-gradient( rgba(31, 30, 30, 0.938), rgba(0, 0, 0, 0.911) ), url("../Images/hotel.jpeg");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ),url(../Images/hotel2.jpg) !important;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black !important; */
+    background-image: linear-gradient( rgba(20, 20, 20, 0.8), rgba(24, 23, 23, 0.8) ), url("../Images/hotel.jpeg");
+    background-size: cover;
+    color: white;
+}
+
+.center {
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: rgba(5, 0, 0, 0.4);
+}
+
+.input-item {
+    padding-right: 50px;
+}
+
+.title {
+    margin: 40px;
+    color: white;
+    font-family: 'Cinzel', serif;
+}
+
+.profile {
+    border-radius: 50%;
+}
+
+.divider {
+    border-right: 2px solid white;
+}
+
+
+

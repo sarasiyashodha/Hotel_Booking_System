@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Cinzel', serif;
+}
+
+body {
+    background-color: rgb(51, 44, 51);
+}
+
+.btn {
+    margin-left: 40px;
+    size: 20px;
+}
+
+.room {
+    margin: 40px 40px 0px;
+    border-radius: 5%;
+}
+

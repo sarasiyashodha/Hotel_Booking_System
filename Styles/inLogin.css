@@ -1,0 +1,20 @@
+body {
+    background-image: linear-gradient( rgba(20, 20, 20, 0.8), rgba(24, 23, 23, 0.8) ), url("../Images/hotel.jpeg");
+    background-size: cover;
+    color: white;
+}
+
+h1 {
+    color: white !important;
+    font-family: 'Cinzel', serif;
+}
+
+.center {
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: rgba(5, 0, 0, 0.4);
+}
